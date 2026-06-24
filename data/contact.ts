@@ -11,15 +11,15 @@ export const contact = {
     "用户增长",
     "社群与活动运营"
   ],
-  location: "New York / Shanghai / Seoul，可后续手动调整",
-  email: "your-email@example.com",
+  location: "New York / Shanghai",
+  email: "al9891@nyu.edu",
   linkedin: "LinkedIn placeholder",
   phone: {
-    value: "可后续编辑",
-    isPublic: false
+    value: "18297971396",
+    isPublic: true
   },
   wechat: {
-    value: "可后续编辑",
-    isPublic: false
+    value: "18297971396",
+    isPublic: true
   }
 };
