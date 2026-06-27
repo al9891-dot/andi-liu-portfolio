@@ -31,7 +31,7 @@ export const experiences: ExperienceItem[] = [
     id: "entu",
     companyDisplayName: "厦门恩途国际旅行公司",
     role: "文化旅游产品运营实习生 / 文旅产品实习生",
-    period: "2024.02 – 2024.06"
+    period: "2024.02 – 2024.06",
   
     keywords: ["文旅产品", "行程落地", "文化叙事", "To B 合作", "内容传播"],
     summary:
