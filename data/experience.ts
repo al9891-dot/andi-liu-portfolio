@@ -3,8 +3,7 @@ import type { ExperienceItem } from "@/types/site";
 export const experiences: ExperienceItem[] = [
   {
     id: "luxury-travel",
-    companyDisplayName: "某国际高端定制旅行机构",
-    companyLegalName: "可后续编辑或继续匿名",
+    companyDisplayName: "WildChina 碧山旅行",
     role: "产品运营实习生 / 旅行定制顾问实习",
     period: "2026.04 – 至今",
     keywords: ["纯英文工作环境", "国际客户定制", "高端客户服务", "跨文化沟通", "目的地研究"],
