@@ -21,6 +21,7 @@ export type ExperienceItem = {
   periodNote?: string;
   keywords: string[];
   summary: string;
+  detailIntro?: string;
   details: string[];
   outcomes: string[];
   tags: string[];

@@ -35,6 +35,7 @@ export function ExperienceCard({ item, defaultOpen = false }: { item: Experience
         <div className="mt-5 grid gap-5 lg:grid-cols-[1fr_0.7fr]">
           <div>
             <h3 className="text-sm font-semibold text-ink">完整描述</h3>
+            {item.detailIntro ? <p className="mt-3 text-sm leading-7 text-muted">{item.detailIntro}</p> : null}
             <ul className="mt-3 space-y-2 text-sm leading-7 text-muted">
               {item.details.map((detail) => <li key={detail}>• {detail}</li>)}
             </ul>
